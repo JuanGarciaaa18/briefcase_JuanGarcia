@@ -203,17 +203,15 @@ progress{
    height: 2rem;
    border: solid rgb(255, 255, 255) 1px;
    border-radius: 5rem;
-}
-progress::-webkit-progress-bar {
-    background-color: #ffad76;
+}  progress::-webkit-progress-bar {
+    background-color: #ffd9c6;
     border-radius: 5rem;
 }
 
 progress::-webkit-progress-value {
-    background-color:rgb(255, 81, 0);
+    background-color:#ffad76;
     border-radius: 5rem;
 }
-
 }
 
 
@@ -235,7 +233,7 @@ progress::-webkit-progress-value {
         font-size: 1.1rem;
      }
      .header{
-         background-color: rgb(255, 81, 0);
+         background-color: #ffad76;
          display: flex;
          
      }
@@ -253,7 +251,7 @@ progress::-webkit-progress-value {
          margin-bottom: 1.6rem;
          text-align: center;
          margin-right: 1rem;
-         background-color:rgb(255, 81, 0);
+         background-color:#ffad76;
      }
      .contactme{
         display: none;
@@ -309,7 +307,7 @@ progress::-webkit-progress-value {
      .description1{
          font-size: 1.1rem;
          text-align: center;
-         background-color:rgb(255, 81, 0) ;
+         background-color:#ffad76;
      }
      
      
@@ -423,14 +421,14 @@ progress::-webkit-progress-value {
         border-radius: 5rem;
      }
      progress::-webkit-progress-bar {
-         background-color: #ffad76;
-         border-radius: 5rem;
-     }
-     
-     progress::-webkit-progress-value {
-         background-color:rgb(255, 81, 0);
-         border-radius: 5rem;
-     }
+        background-color: #ffd9c6;
+        border-radius: 5rem;
+    }
+    
+    progress::-webkit-progress-value {
+        background-color:#ffad76;
+        border-radius: 5rem;
+    }
 }
 
 
@@ -452,7 +450,7 @@ progress::-webkit-progress-value {
         font-size: 1.1rem;
      }
      .header{
-         background-color: rgb(255, 81, 0);
+         background-color: #ffad76;
          display: flex;
          
      }
@@ -473,7 +471,7 @@ progress::-webkit-progress-value {
          margin-bottom: 1.6rem;
          text-align: center;
          margin-right: 1rem;
-         background-color:rgb(255, 81, 0);
+         background-color:#ffad76;
      }
      
      .main h2 {
@@ -527,7 +525,7 @@ progress::-webkit-progress-value {
      .description1{
          font-size: 1.1rem;
          text-align: center;
-         background-color:rgb(255, 81, 0) ;
+         background-color:#ffad76;
      }
      
      
@@ -651,14 +649,14 @@ progress::-webkit-progress-value {
         border-radius: 5rem;
      }
      progress::-webkit-progress-bar {
-         background-color: #ffad76;
-         border-radius: 5rem;
-     }
-     
-     progress::-webkit-progress-value {
-         background-color:rgb(255, 81, 0);
-         border-radius: 5rem;
-     }
+        background-color: #ffd9c6;
+        border-radius: 5rem;
+    }
+    
+    progress::-webkit-progress-value {
+        background-color:#ffad76;
+        border-radius: 5rem;
+    }
 }
 
 
@@ -691,7 +689,7 @@ progress::-webkit-progress-value {
         font-size: 1.1rem;
      }
      .header{
-         background-color: rgb(255, 81, 0);
+         background-color:#ffad76;
         width: 400px;
          
      }
@@ -721,7 +719,7 @@ progress::-webkit-progress-value {
          margin-bottom: 3rem;
          text-align: center;
          margin-right: 1rem;
-         background-color:rgb(255, 81, 0);
+         background-color:#ffad76;
      }
      .main{
         width: 100%;
@@ -777,7 +775,7 @@ progress::-webkit-progress-value {
      .description1{
          font-size: 1.1rem;
          text-align: center;
-         background-color:rgb(255, 81, 0) ;
+         background-color:#ffad76 ;
      }
      
      
@@ -915,12 +913,12 @@ progress::-webkit-progress-value {
         border-radius: 5rem;
      }
      progress::-webkit-progress-bar {
-         background-color: #ffad76;
+         background-color: #ffd9c6;
          border-radius: 5rem;
      }
      
      progress::-webkit-progress-value {
-         background-color:rgb(255, 81, 0);
+         background-color:#ffad76;
          border-radius: 5rem;
      }
 }
